@@ -1,0 +1,35 @@
+[33mcommit c021d2a04d549b23fb8b5784370bc0ac3db66a48[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: LucasGarmen <lucasgarmendia95@gmail.com>
+Date:   Mon Dec 22 19:57:53 2025 -0300
+
+    Actualizar requirements.txt y settings para Render
+
+[33mcommit 51fc8c77c33940146fe031667b6d43ad122bd6fd[m
+Author: LucasGarmen <lucasgarmendia95@gmail.com>
+Date:   Mon Dec 22 19:45:03 2025 -0300
+
+    Archivo render.yaml corregido
+
+[33mcommit 40f621d2e31ad16bf743b4d20eb6fe7726729cdb[m
+Author: LucasGarmen <lucasgarmendia95@gmail.com>
+Date:   Mon Dec 22 19:40:22 2025 -0300
+
+    Configurar static files y Whitenoise para Render
+
+[33mcommit 7b29580498a6244cf303b58d4d6049695008f67d[m
+Author: LucasGarmen <lucasgarmendia95@gmail.com>
+Date:   Mon Dec 22 19:32:53 2025 -0300
+
+    Agregar dominio de Render a ALLOWED_HOSTS
+
+[33mcommit bb255c5717f387ce5d97b95b22446be3e0a6421a[m
+Author: LucasGarmen <lucasgarmendia95@gmail.com>
+Date:   Mon Dec 22 19:14:11 2025 -0300
+
+    requirements.txt listo para Render
+
+[33mcommit 4a9ec0bc8dc2bbf2c7720756e2da9f81b1171c9a[m
+Author: LucasGarmen <lucasgarmendia95@gmail.com>
+Date:   Mon Dec 22 19:04:56 2025 -0300
+
+    Primer commit
